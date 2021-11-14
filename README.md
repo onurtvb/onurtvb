@@ -2,6 +2,6 @@
 <p align="center"><br>
   <samp>
     「 Organization: <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/lagangdelbosco">@lagangdelbosco</a></b> 」<br>
-    「 Discord: <b>! oᴎʊr_#1639</b> 」
+    「 Discord: <b>onur_#1639</b> 」
   </samp>
 </p>
